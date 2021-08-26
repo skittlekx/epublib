@@ -1,0 +1,9 @@
+/.idea/*
+
+/epub-client/.vscode
+
+/web-service/.mvn
+
+/web-service/*.txt
+
+*/target/
